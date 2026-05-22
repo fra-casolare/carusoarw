@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "carusoarw/03 - Alberatura e Mappa del Sito.md",
+                "file": "carusoarw/02 - Attori e Casi d'Uso.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03 - Alberatura e Mappa del Sito"
+              "title": "02 - Attori e Casi d'Uso"
             }
           }
         ]
@@ -186,11 +186,11 @@
   },
   "active": "7a520aa4c2fe5652",
   "lastOpenFiles": [
+    "carusoarw/03 - Alberatura e Mappa del Sito.md",
     "carusoarw/04 - Flusso Dati e Logica Cloud.md",
     "carusoarw/02 - Attori e Casi d'Uso.md",
     "carusoarw/01 - Obiettivi e Requisiti.md",
     "_config.yml",
-    "carusoarw/05 - Roadmap e Checklist di Rilascio.md",
-    "carusoarw/03 - Alberatura e Mappa del Sito.md"
+    "carusoarw/05 - Roadmap e Checklist di Rilascio.md"
   ]
 }
