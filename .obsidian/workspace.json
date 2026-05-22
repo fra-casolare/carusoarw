@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "carusoarw/01 - Obiettivi e Requisiti.md",
-                "mode": "source",
-                "source": false
+                "file": "carusoarw/02 - Attori e Casi d'Uso.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "01 - Obiettivi e Requisiti"
+              "title": "02 - Attori e Casi d'Uso"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1efe59faf02557d7",
@@ -186,5 +185,12 @@
     }
   },
   "active": "7a520aa4c2fe5652",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "carusoarw/01 - Obiettivi e Requisiti.md",
+    "carusoarw/02 - Attori e Casi d'Uso.md",
+    "_config.yml",
+    "carusoarw/05 - Roadmap e Checklist di Rilascio.md",
+    "carusoarw/04 - Flusso Dati e Logica Cloud.md",
+    "carusoarw/03 - Alberatura e Mappa del Sito.md"
+  ]
 }

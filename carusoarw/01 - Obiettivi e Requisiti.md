@@ -1,3 +1,17 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
+<style>
+    body {
+        box-sizing: border-box;
+        min-width: 200px;
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 45px;
+    }
+    @media (max-width: 767px) {
+        .markdown-body { padding: 15px; }
+    }
+</style>
+<div class="markdown-body">
 
 # 📸 01 - Obiettivi e Requisiti del Progetto
 
@@ -79,3 +93,5 @@ L'interfaccia dell'area privata deve permettere al cliente di "lavorare" sulle f
 Nel pannello di controllo, il fotografo deve poter monitorare le scelte del cliente tramite filtri avanzati:
 *   Filtrare l'intero servizio privato per mostrare solo i file a 5 stelle per procedere all'impaginazione del fotolibro.
 *   Visualizzare i tag inseriti dal cliente per capire quali foto necessitano di ulteriore ritocco o modifiche specifiche.
+
+</div>
