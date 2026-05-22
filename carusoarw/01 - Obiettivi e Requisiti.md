@@ -1,7 +1,7 @@
 
 # 📸 01 - Obiettivi e Requisiti del Progetto
 
-Hola. Questo documento riassume gli obiettivi strategici, la struttura dei contenuti e i requisiti di sistema concordati per l'ecosistema web **Carusoarw**. L'obiettivo è coniugare un'interfaccia pubblica ad alto impatto emotivo con un sistema di gestione dei contenuti snello ed efficiente.
+Ciao. Questo documento riassume gli obiettivi strategici, la struttura dei contenuti e i requisiti di sistema concordati per l'ecosistema web **Carusoarw**. L'obiettivo è coniugare un'interfaccia pubblica ad alto impatto emotivo con un sistema di gestione dei contenuti snello ed efficiente.
 
 ---
 
