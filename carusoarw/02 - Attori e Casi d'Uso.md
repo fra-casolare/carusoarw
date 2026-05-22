@@ -77,5 +77,6 @@ Cliente --> UC_Download
 note left of UC_FilterStars : Ale filtra i file pronti\nin base ai voti del cliente
 note right of UC_ViewPort : Struttura:\nCategoria > Soggetto > Gallery
 note right of UC_UploadClienti : Es: Giorno prima,\nMatrimonio, etc.
+```
 
 </div>
