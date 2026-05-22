@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+
+# Forza GitHub Pages a leggere anche i file e le cartelle che iniziano con l'underscore (come _Index.md)
+exclude: []
+
+# Assicura che i file Markdown vengano elaborati correttamente
+markdown: kramdown
