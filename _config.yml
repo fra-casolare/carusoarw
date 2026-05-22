@@ -1,7 +1,8 @@
 theme: jekyll-theme-cayman
 
-# Forza GitHub Pages a leggere anche i file e le cartelle che iniziano con l'underscore (come _Index.md)
-exclude: []
+# Dice a GitHub di applicare il tema a TUTTI i file .md, non solo alla index
+plugins:
+  - jekyll-optional-front-matter
 
-# Assicura che i file Markdown vengano elaborati correttamente
-markdown: kramdown
+# Impedisce a GitHub di nascondere i file che iniziano con l'underscore
+exclude: []
