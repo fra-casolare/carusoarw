@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf1b8661989e528",
+        "id": "a92cfaf70bac7f88",
         "type": "tabs",
         "children": [
           {
-            "id": "f8192e5797d4fb15",
+            "id": "7a520aa4c2fe5652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "carusoarw/01 - Obiettivi e Requisiti.md",
+                "file": "carusoarw/03 - Alberatura e Mappa del Sito.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "01 - Obiettivi e Requisiti"
+              "title": "03 - Alberatura e Mappa del Sito"
             }
           }
         ]
@@ -174,24 +174,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Crea nuova Base": false
     }
   },
-  "active": "f8192e5797d4fb15",
+  "active": "7a520aa4c2fe5652",
   "lastOpenFiles": [
-    "carusoarw/05 - Roadmap e Checklist di Rilascio.md",
     "carusoarw/04 - Flusso Dati e Logica Cloud.md",
     "carusoarw/03 - Alberatura e Mappa del Sito.md",
     "carusoarw/02 - Attori e Casi d'Uso.md",
     "carusoarw/01 - Obiettivi e Requisiti.md",
-    "carusoarw/_Index.md",
-    "_config.yml"
+    "_config.yml",
+    "carusoarw/05 - Roadmap e Checklist di Rilascio.md"
   ]
 }
